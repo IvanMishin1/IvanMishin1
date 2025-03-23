@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan
-- 👀 I’m interested in game and web developpment
+- 👀 I’m interested in game and web development
 - 🌱 I’m currently exploring new frameworks
 - 💞️ I’m looking to collaborate on some exciting projects
 - 📫 You can contact me on discord @ivanmishin
